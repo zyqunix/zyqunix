@@ -9,4 +9,4 @@ site  $  zyqunix.github.io/bio
 &zwnj; 
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=zyqunix)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyqunix)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyqunix)](https://github.com/anuraghazra/github-readme-stats)
