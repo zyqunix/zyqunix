@@ -4,7 +4,7 @@
 ```csharp
 github.com/zyqunix
 dc    $  @zyqunix
-site  $  zyqunix.github.io/bio
+site  $  your-moms.fentseller.lol
 ```
 &zwnj; 
 &zwnj; 
