@@ -1,9 +1,9 @@
 <h1  align="center"> <a href="https://ghrmt.vercel.app"><img src="https://ghrmt.vercel.app?font=Fira%20Code&size=30&pause=1000&center=true&random=false&width=435&lines=zyqunix" alt="ReadMe Typing Vercel Version By zyqunix" /></a></h1>
-<h3  align="center"> <a href="https://ghrmt.vercel.app"><img src="https://ghrmt.vercel.app?font=Fira%20Code&size=28&pause=1000&center=true&random=false&width=435&lines=SSelf+Taught+Dev+From+Germanyy" alt="ReadMe Typing Vercel Version By zyqunix" /></a></h3>
+<h1  align="center"> <a href="https://ghrmt.vercel.app"><img src="https://ghrmt.vercel.app?font=Fira%20Code&size=30&pause=1000&center=true&random=false&width=435&lines=Self+Taught+Developer+From+Germany" alt="ReadMe Typing Vercel Version By zyqunix" /></a></h1>
 
 ![](https://komarev.com/ghpvc/?username=zyqunix&color=blue&style=flat&label=Views)
 
-- 🔭 I Like to Reverse Engineer Websites and Apps, then mod them to fit my style 
+- 🔭 I Like to Reverse Engineer Websites and Apps, then mod them
 
 - 📫 Contact me on Discord **@a7rh**
 - 📫 Contact me on Instagram **100kgmeth**
