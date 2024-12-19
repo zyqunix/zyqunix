@@ -9,10 +9,10 @@
 - 📫 Contact me on Instagram **100kgmeth**
 <details>
  <summary><strong>Crypto Options:</strong></summary>
-- **BTC**: `bc1qstlxvpqhalgrmwzj493tajrx24dv6p6utfjksy`
-- **LTC**: `LbTYSdu6ARAhEPnpnkScxwn5vfVM2P8KgT`
-- **ETH**: `0x1E6D96999da353981D7863EbB3633b5DEd5e2949`
-- **XMR**: `49MYsn5xzdzAiduFwZQ54v8FGeZR9uqLUY7hywfYLURo3qUCDPSX5QifCSnWpENARodqrAWu8tt974d8kzf3RFqkKQStLXU`
+  - **BTC:** `bc1qstlxvpqhalgrmwzj493tajrx24dv6p6utfjksy`
+  - **LTC:** `LbTYSdu6ARAhEPnpnkScxwn5vfVM2P8KgT`
+  - **ETH:** `0x1E6D96999da353981D7863EbB3633b5DEd5e2949`
+  - **XMR:** `49MYsn5xzdzAiduFwZQ54v8FGeZR9uqLUY7hywfYLURo3qUCDPSX5QifCSnWpENARodqrAWu8tt974d8kzf3RFqkKQStLXU`
 </details>
 
 # Discord Card
