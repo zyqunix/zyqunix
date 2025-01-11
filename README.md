@@ -50,8 +50,6 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<img align="center" src="https://l7negstats.vercel.app/api/top-langs?username=zyqunix&show_icons=true&locale=en&layout=compact&theme=transparent" alt="zyqunix" /></p>
-
 ![zyqunix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyqunix)
 
-![zyqunix's GitHub Streak](https://streak-stats.demolab.com/?user=zyqunix)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zyqunix&type=png)](https://git.io/streak-stats)
