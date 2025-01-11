@@ -51,4 +51,3 @@
 </p>
 
 ![zyqunix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyqunix)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zyqunix)
