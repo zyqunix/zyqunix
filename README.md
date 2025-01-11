@@ -52,4 +52,6 @@
 
 <img align="center" src="https://l7negstats.vercel.app/api/top-langs?username=zyqunix&show_icons=true&locale=en&layout=compact&theme=transparent" alt="zyqunix" /></p>
 
-![Github Streak Stats](https://https://streak-stats.demolab.com?user=zyqunix&theme=github-dark-blue)
+![zyqunix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyqunix)
+
+![zyqunix's GitHub Streak](https://streak-stats.demolab.com/?user=zyqunix)
