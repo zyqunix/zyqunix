@@ -4,15 +4,13 @@
 ![](https://komarev.com/ghpvc/?username=zyqunix&color=blue&style=flat&label=Views)
 
 - 🔭 I Like to Reverse Engineer Websites and Apps, then mod them
-
-- 📫 Contact me on Discord **@a7rh**
-- 📫 Contact me on Instagram **100kgmeth**
+- 📫 Contact me on Discord: **@a7rh**
+- 📫 Contact me on Instagram: **100kgmeth**
+- 🌟 Idol: **[pankoza2-pl](https://github.com/pankoza2-pl)**
 
 <details>
   
-  <summary><strong>Crypto Options:</strong></summary>
-
-  
+  <summary><strong>Crypto Options:</strong></summary>  
   <p>Show your support through cryptocurrency donations:</p>
   
   - **BTC:** `bc1qstlxvpqhalgrmwzj493tajrx24dv6p6utfjksy`
