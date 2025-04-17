@@ -36,7 +36,6 @@
 <h3 align="left">Bio Services I Use:</h3>
 <p align="left">
  <a href="https://fentseller.lol/bio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/zyqunix/zyqunix/main/img/zyqunix.png" alt="zyqunix" height="30" width="40" /></a>
- <a href="https://guns.lol/z2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/guns.lol.png" alt="zyqunix" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
