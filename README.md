@@ -5,7 +5,7 @@
 
 - 🔭 I Like to Reverse Engineer Websites and Apps, then mod them
 - 📫 Contact me on Discord: **@a7rh**
-- 📫 Contact me on Instagram: **100kgmeth**
+- 📫 Contact me on Instagram: **byte_ptr**
 - 🌟 Inspiration: **[pankoza2-pl](https://github.com/pankoza2-pl)**
 
 <details>
