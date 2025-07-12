@@ -4,8 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=zyqunix&color=blue&style=flat&label=Views)
 
 - 🔭 I Like to Reverse Engineer Websites and Apps, then mod them
-- 📫 Contact me on Discord: **@192.168.2.223**
-- 📫 Contact me on Instagram: **byte_ptr**
+- 📫 Contact me on Discord: **@zyqunix**
+- 📫 Contact me on Instagram: **zyqunix**
 - 🌟 Inspiration: **[pankoza2-pl](https://github.com/pankoza2-pl)**
 
 <details>
